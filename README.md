@@ -1,2 +1,2 @@
-# CAP-5610-Machine-Learning
+machineLearning
 HW submissions for ML course
